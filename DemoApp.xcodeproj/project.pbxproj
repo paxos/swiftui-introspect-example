@@ -340,8 +340,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/siteline/swiftui-introspect.git";
 			requirement = {
-				kind = exactVersion;
-				version = "1.4.0-beta.2";
+				kind = revision;
+				revision = c2e7312cd130e7ba0bf7ca2cd85ef5358f3b9c5e;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
